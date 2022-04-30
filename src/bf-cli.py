@@ -1,3 +1,4 @@
+from brainfuck import brainfuck
 import argparse, sys
 
 parser = argparse.ArgumentParser()
